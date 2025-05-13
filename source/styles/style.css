@@ -383,7 +383,7 @@ img {
 	cursor: pointer;
 	padding: 18px;
 	text-align: center;
-	min-width: 484px;
+/* 	min-width: 484px; */
 	width: 100%;
 	transition: all 0.3s;
 }
